@@ -1,9 +1,0 @@
-path: C:/Users/sasik/Downloads/mini project/ALPR_Project
-
-train: images/train
-val: images/val
-
-nc: 1
-
-names:
-  0: license_plate
